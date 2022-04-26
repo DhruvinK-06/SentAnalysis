@@ -6,6 +6,6 @@ Analyse IMDb reviews and classify whether the given review holds negative or pos
 
 ## Images
 
-![Screenshot (174)](https://user-images.githubusercontent.com/72988991/165233217-e2d3b968-165f-4a6e-8822-a5a4b6ab31ec.png)
+![Screenshot (176)](https://user-images.githubusercontent.com/72988991/165253878-ecb08edc-447b-4a40-844c-29753edd6c40.png)
 
-![Screenshot (175)](https://user-images.githubusercontent.com/72988991/165233247-47ce0f79-4ae2-44a4-aac5-c5bebb809b63.png)
+![Screenshot (177)](https://user-images.githubusercontent.com/72988991/165253889-a05df3c7-dc3d-472c-9549-ba5aad5cbae0.png)
