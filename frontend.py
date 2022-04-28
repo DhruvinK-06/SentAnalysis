@@ -38,11 +38,11 @@ with Mod:
     if col[2].button('Enter'):
         if txt != '':
             if pred == 0:
-                col1[1].write('The entered review is negative')
+                col1[1].write('😡 The entered review is negative 😡')
             else:
-                col1[1].write('The entered review is positive')
+                col1[1].write('😀 The entered review is positive 😀')
         else:
-            col1[1].write('Please enter a review first!!')
+            col1[1].write('😐 Please enter a review first!! 😐')
 
 
 
